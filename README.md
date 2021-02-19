@@ -19,7 +19,7 @@
 ⚡️ Well organized documentation
 
 To view a demo example, **[click here](https://simplfolio.netlify.com/)**\
-To view a live example, **[click here](https://focused-lewin-f5f58d.netlify.app/)**
+To view a live example, **[click here](https://akv-react-portfolio.netlify.app/)**
 
 ---
 
@@ -303,7 +303,7 @@ $secondary-color: #00cdac;
 
 ## Status
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/75600296-89eb-4640-9e7e-fa87fba7ce76/deploy-status)](https://app.netlify.com/sites/simplfolio/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e4475c15-7d7b-4d22-b6e0-70621451f991/deploy-status)](https://app.netlify.com/sites/akv-react-portfolio/deploys)
 
 ## License 📄
 

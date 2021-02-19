@@ -19,7 +19,7 @@
 ⚡️ Well organized documentation
 
 To view a demo example, **[click here](https://simplfolio.netlify.com/)**\
-To view a live example, **[click here](https://cobidev.com/)**
+To view a live example, **[click here](https://focused-lewin-f5f58d.netlify.app/)**
 
 ---
 
